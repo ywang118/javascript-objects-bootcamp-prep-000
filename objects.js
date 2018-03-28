@@ -1,1 +1,3 @@
-playlist.Justin_bieber = 'love yourself'
+var playlist = {
+  justin_bieber : "love yourself"
+};
